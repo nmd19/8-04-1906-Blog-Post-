@@ -1,9 +1,9 @@
----
+<!--insert-->
 # Display name
-name: Your Name
+name: Joshua Kendrick
 
 authors:
-- YourNameNoSpaces
+- joshuakendrick
 
 superuser: no
 
@@ -18,9 +18,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
 
-interests:
+interests: Finance, math
 
-education:
+education: Sophomore
 
 social:
 - icon: twitter
@@ -28,7 +28,7 @@ social:
   link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/Josh-LK
 
 user_groups:
 - Writers
