@@ -1,15 +1,15 @@
 ---
-title: "<!--insert-->"
+title: "The Sultan's Successor"
 subtitle: "" <!--optional-->
-summary: "<!--insert-->"
-authors: [<!--YourFullNameNoSpaces-->]
-tags: ["<!--insert-->", "<!--insert-->" <!--add more as needed-->]
+summary: "A summary on the successor's of the sultan and why they were chosen, why others were not, and how Europeans were involved."
+authors: [joshuakendrick]
+tags: ["sultan", "succesor" <!--add more as needed-->]
 categories: [curiosities]
-date: YYYY-MM-DD <!--today's date-->
+date: 2020-10-03
 featured: false
 draft: false
 image:
-  caption: "<!--insert caption, perhaps including date of issue in which feature image appears-->"
+  caption: "Abbas II"
   focal_point: "Smart"
   preview_only: true
 projects: []
