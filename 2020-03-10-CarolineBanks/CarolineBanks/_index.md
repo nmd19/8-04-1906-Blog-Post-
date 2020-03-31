@@ -16,7 +16,7 @@ organizations:
   url: "https://fsu.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
+bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
 
 interests:
 
@@ -33,4 +33,4 @@ social:
 user_groups:
 - Writers
 ---
-The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
+The author, a student at Florida State University, was enrolled in the digital microhistory lab in spring 2020.
