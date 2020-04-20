@@ -23,6 +23,16 @@ The National Vigilance Association formed in response to the influx of sex traff
 
 National Vigilance Association fought sexual violence through a lens of maintaining safety of women in Egypt by ending the White Slave Trade. Such a relationship is seen through marriage announcements on the Egyptian Gazette. National Vigilance Association represents a distinctly modern way of fighting the dangers of abuse.
 
+Sources:
+(1) https://dig-eg-gaz.github.io/post/18-analysis-frady/)
+(2)	(https://dig-eg-gaz.github.io/post/17-analysis-rodriguez/)
+(3) https://www.jstor.org/stable/40543124
+(4) Stopping the Traffic: the National
+Vigilance Association and the
+international fight against the ‘white
+slave’ trade (1899–c.1909)
+
+
 
 If you want to include other images, add the image file to the folder containing this file, and use this format:
 
