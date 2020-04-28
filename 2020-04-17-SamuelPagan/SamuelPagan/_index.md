@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Your Name
+name: Samuel Pagan
 
 authors:
-- YourNameNoSpaces
+- SamuelPagan
 
 superuser: no
 
@@ -23,12 +23,9 @@ interests:
 education:
 
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/SamuelPagan
 
 user_groups:
 - Writers
