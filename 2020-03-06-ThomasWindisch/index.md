@@ -21,11 +21,12 @@ This accident occured because Mr. Poggetti rose out of his cover, an essential p
 
 Rather than going to a hostipal like anyone would nowadays after taking a bullet to the eye, Mr. Poggetti recieved his medical assitance at home. In another case of [accidental shooting](https://dig-eg-gaz.github.io/post/18-blog-beasley/), a bridge foreman somehow managed to pull the trigger of a gun pointed into his own mouth while picking it up. This unfortionate foreman spent numerous days in the hospital. It seems that Mr. Perreti's ability to avoid going to the hospital likely correlates with his choice of sport.
 
- # Similar blog posts
- *[Accidental Shooting](https://dig-eg-gaz.github.io/post/18-blog-beasley/)
- *[Cairo Visitor Gravely Injured](https://dig-eg-gaz.github.io/post/18-blog-fitzpatrick/)
- Additional Sources</h4>
- *[Safety Measures for Students Who Hunt Game](https://abt.ucpress.edu/content/11/7/174.1)
+ ## Similar blog posts
+ * [Accidental Shooting](https://dig-eg-gaz.github.io/post/18-blog-beasley/)
+ * [Cairo Visitor Gravely Injured](https://dig-eg-gaz.github.io/post/18-blog-fitzpatrick/)
+ 
+ ## Additional Sources
+ * [Safety Measures for Students Who Hunt Game](https://abt.ucpress.edu/content/11/7/174.1)
 
 
 
